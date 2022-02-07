@@ -56,7 +56,7 @@
 
 
 | [<img src="https://github.com/Aaditya-Rajput/Aaditya-Rajput/blob/main/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/Aaditya-Rajput-/) | [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/Aaditya-Rajput) | [<img src="https://github.com/Aaditya-Rajput/Aaditya-Rajput/blob/main/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:Adityarajput2001@gmail.com)
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|
 
 
 
