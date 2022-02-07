@@ -1,32 +1,32 @@
-# Aditya Rajput&nbsp;<img src="https://github.com/Aaditya-Rajput/Aaditya-Rajput/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+# Aditya Rajput&nbsp;<img src="https://github.com/Aaditya-Rajput/Aaditya-Rajput/blob/main/Assets/Mario_Hello_Big.gif" width="30px">
 
 
 <!-- 
     &nbsp; [![HitCount](http://hits.dwyl.com/Aaditya-Rajput/Aaditya-Rajput.svg)](http://hits.dwyl.com/Aaditya-Rajput/Aaditya-Rajput) 
 -->
 
-<img align="right" alt="PC GIF" src="https://github.com/Aaditya-Rajput/Aaditya-Rajput/blob/master/Assets/PC.gif" width="190" />
+<img align="right" alt="PC GIF" src="https://github.com/Aaditya-Rajput/Aaditya-Rajput/blob/main/Assets/PC.gif" width="190" />
 
-### <img src="https://github.com/Aaditya-Rajput/Aaditya-Rajput/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/Aaditya-Rajput/Aaditya-Rajput/blob/master/Assets/Earth.gif" width="24px">
+### <img src="https://github.com/Aaditya-Rajput/Aaditya-Rajput/blob/main/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/Aaditya-Rajput/Aaditya-Rajput/blob/main/Assets/Earth.gif" width="24px">
 
 <p>
   <em>
     I am a 3rd Year undergraduate from <a href="https://chitkarauniversity.edu.in/"> <b>Chitkara University</b>, Himachal Pradesh</a>.  
-    A budding <b>Full Stack Developer</b> <img src="https://github.com/Aaditya-Rajput/Aaditya-Rajput/blob/master/Assets/Developer.gif" width="30px"> and a <b>Design    Enthusiast,</b>&nbsp;<img src="https://github.com/Aaditya-Rajput/Aaditya-Rajput/blob/master/Assets/Designer.gif" width="36px">  who is <b>obsessed</b>
+    A budding <b>Full Stack Developer</b> <img src="https://github.com/Aaditya-Rajput/Aaditya-Rajput/blob/main/Assets/Developer.gif" width="30px"> and a <b>Design    Enthusiast,</b>&nbsp;<img src="https://github.com/Aaditya-Rajput/Aaditya-Rajput/blob/main/Assets/Designer.gif" width="36px">  who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/Aaditya-Rajput/Aaditya-Rajput/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel.</b> <img src="https://github.com/Aaditya-Rajput/Aaditya-Rajput/blob/master/Assets/Medal.gif" width="20px">
+    <b>grow</b> <img src="https://github.com/Aaditya-Rajput/Aaditya-Rajput/blob/main/Assets/Rocket.gif" width="18px">and 
+    <b>excel.</b> <img src="https://github.com/Aaditya-Rajput/Aaditya-Rajput/blob/main/Assets/Medal.gif" width="20px">
   </em>  
 </p>
 
 <br>
 
-- <img alt="GIF" src="https://github.com/Aaditya-Rajput/Aaditya-Rajput/blob/master/Assets/wave.gif" width="20vw" /> I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
-- <img alt="GIF" src="https://github.com/Aaditya-Rajput/Aaditya-Rajput/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m *currently learning* how to **flex README** on my **profile** 💪.
-- <img alt="GIF" src="https://github.com/Aaditya-Rajput/Aaditya-Rajput/blob/master/Assets/headbang.gif" width="20vw" /> I’m *looking to collaborate* on **JS 🌐 projects **.
-- <img alt="GIF" src="https://github.com/Aaditya-Rajput/Aaditya-Rajput/blob/master/Assets/happy.gif" width="20vw" /> *Ask me* to **play games with you 🕹️ .**
-- <img alt="GIF" src="https://github.com/Aaditya-Rajput/Aaditya-Rajput/blob/master/Assets/powerup.gif" width="20vw" /> **Pronouns:** [*He/Him*](https://pronoun.is/he) 🧔
-- <img alt="GIF" src="https://github.com/Aaditya-Rajput/Aaditya-Rajput/blob/master/Assets/coin.gif" width="20vw" /> **Fun fact:** My *smartness* 💡 lies in my *laziness* 😴
+- <img alt="GIF" src="https://github.com/Aaditya-Rajput/Aaditya-Rajput/blob/main/Assets/wave.gif" width="20vw" /> I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
+- <img alt="GIF" src="https://github.com/Aaditya-Rajput/Aaditya-Rajput/blob/main/Assets/gandalf_parrot.gif" width="20vw" /> I’m *currently learning* how to **flex README** on my **profile** 💪.
+- <img alt="GIF" src="https://github.com/Aaditya-Rajput/Aaditya-Rajput/blob/main/Assets/headbang.gif" width="20vw" /> I’m *looking to collaborate* on **JS 🌐 projects **.
+- <img alt="GIF" src="https://github.com/Aaditya-Rajput/Aaditya-Rajput/blob/main/Assets/happy.gif" width="20vw" /> *Ask me* to **play games with you 🕹️ .**
+- <img alt="GIF" src="https://github.com/Aaditya-Rajput/Aaditya-Rajput/blob/main/Assets/powerup.gif" width="20vw" /> **Pronouns:** [*He/Him*](https://pronoun.is/he) 🧔
+- <img alt="GIF" src="https://github.com/Aaditya-Rajput/Aaditya-Rajput/blob/main/Assets/coin.gif" width="20vw" /> **Fun fact:** My *smartness* 💡 lies in my *laziness* 😴
 
 
 <br>
@@ -47,15 +47,15 @@
 
 <br>
 
-<img src="https://github.com/Aaditya-Rajput/Aaditya-Rajput/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
+<img src="https://github.com/Aaditya-Rajput/Aaditya-Rajput/blob/main/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
 
 <br>
 
-# Connect with me<img src="https://github.com/Aaditya-Rajput/Aaditya-Rajput/blob/master/Assets/Handshake.gif" height="32px">
+# Connect with me<img src="https://github.com/Aaditya-Rajput/Aaditya-Rajput/blob/main/Assets/Handshake.gif" height="32px">
 
 
 
-| [<img src="https://github.com/Aaditya-Rajput/Aaditya-Rajput/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/Aaditya-Rajput-/) | [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/Aaditya-Rajput) | [<img src="https://github.com/Aaditya-Rajput/Aaditya-Rajput/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:Adityarajput2001@gmail.com)
+| [<img src="https://github.com/Aaditya-Rajput/Aaditya-Rajput/blob/main/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/Aaditya-Rajput-/) | [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/Aaditya-Rajput) | [<img src="https://github.com/Aaditya-Rajput/Aaditya-Rajput/blob/main/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:Adityarajput2001@gmail.com)
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
 
